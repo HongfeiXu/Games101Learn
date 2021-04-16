@@ -105,7 +105,7 @@ But we don't want translation to be as special case.
 
 <img src="images/t0.png" alt="image-20210307190849624" style="zoom:50%;" />
 
-<img src="images/t2" alt="image-20210307191003257" style="zoom:50%;" />
+<img src="images/t2.png" alt="image-20210307191003257" style="zoom:50%;" />
 
 <img src="images/t1.png" alt="image-20210307191212029" style="zoom: 67%;" />
 
